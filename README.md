@@ -10,5 +10,6 @@ Everything is version controlled.
 
 Everything is revisable.
 
-Reality remains the final authority.# .github
+Reality remains the final authority.
+
 Building a scientific institution dedicated to understanding technological change, improving humanity's maps of reality, and advancing disciplined inquiry across generations.
